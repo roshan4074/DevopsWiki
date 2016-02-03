@@ -1,5 +1,5 @@
 # DevopsWiki
-A wiki of Guides, Scripts, Tutorials related to devops
+A wiki of Guides, Scripts, Tutorials related to devops.
 
 ![Devops tools]
 (http://i.imgur.com/GFKIa7V.png)
